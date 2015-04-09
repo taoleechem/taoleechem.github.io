@@ -1,2 +1,2 @@
 # taoleechem.github.io
-This is Li Tao's personal website
+This is [Li Tao](taoleechem@outlook.com)'s personal website
